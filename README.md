@@ -96,7 +96,7 @@
 
 ---
 
-## My Github Status 💻
+## 💻 My Github Status 
 
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sachith-piyathunga&show_icons=true&locale=en" alt="sachith-piyathunga" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sachith-piyathunga&" alt="sachith-piyathunga" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sachith-piyathunga&show_icons=true&locale=en" alt="sachith-piyathunga" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sachith-piyathunga&" alt="sachith-piyathunga" /></p>

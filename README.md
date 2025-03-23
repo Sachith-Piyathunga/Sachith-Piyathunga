@@ -98,6 +98,6 @@
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=sachith-piyathunga&show_icons=true&locale=en" alt="sachith-piyathunga" /></p>
 
-<p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachith-piyathunga&show_icons=true&locale=en" alt="sachith-piyathunga" /></p>
+<p><img align="right" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachith-piyathunga&show_icons=true&locale=en" alt="sachith-piyathunga" /></p>
 
 

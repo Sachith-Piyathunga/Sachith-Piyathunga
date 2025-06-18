@@ -2,6 +2,12 @@
 
 <h3 align="center">I'm a passionate developer with a strong interest in frontend, backend, mobile application development, and cybersecurity. I enjoy solving complex problems with elegant solutions and exploring how technology can drive creativity. As an undergraduate in Computer Science, I’m committed to continuous learning and growing in my field. I’m also excited to explore more about AI and its potential to revolutionize various industries.</h3>
 
+<h3 align="center">🚀 Future Software Engineer | 💻 Computer Science Undergraduate | 🎯 Full-Stack Software Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2300C76F&size=24&center=true&vCenter=true&width=700&height=45&lines=Java+%7C+Spring+Boot+%7C+Kotlin+%7C+Flutter+%7C+Angular;Full-Stack+Developer+%7C+Problem+Solver;Exploring+AI+%26+Cybersecurity;Open+Source+Contributor+%7C+Lifelong+Learner" />
+</p>
+
   </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student;Problem+Solver" alt="Headline" />

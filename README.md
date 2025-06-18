@@ -21,7 +21,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sachith-piyathunga&label=Profile%20views&color=0e75b6&style=flat" alt="sachith-piyathunga" /> </p>
 
-## Connect with me :handshake:
+---
+
+## 🙋‍♂️ About Me
 
   - 🎓 I'm a third-year Computer Science undergraduate at the **Informatics Institute of Technology, Sri Lanka, affiliated with the University of Westminster, London**.
 

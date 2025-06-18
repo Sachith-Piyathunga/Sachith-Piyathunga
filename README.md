@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HI, I'm Sachintha Chamod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">🚀 Future Cybersecurity Expert | 💻 Computer Science Undergraduate | 🎯 Full-Stack Software Developer</h3>
+<h3 align="center">🚀 Future Cybersecurity Expert | 💻 Computer Science Undergraduate | 🎯 Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2300C76F&size=24&center=true&vCenter=true&width=700&height=45&lines=Java+%7C+Spring+Boot+%7C+Kotlin+%7C+Flutter+%7C+Angular;Full-Stack+Developer+%7C+Problem+Solver;Exploring+AI+%26+Cybersecurity;Open+Source+Contributor+%7C+Lifelong+Learner" />

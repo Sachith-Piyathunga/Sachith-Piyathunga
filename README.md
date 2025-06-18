@@ -124,3 +124,17 @@
 
 ---
 
+## 🧠 Quote I Live By
+
+> _**“BE BRAVE BECAUSE EVEN YOUR SHADOW LEAVES YOU IN THE DARK - ONLY THE INNER STRENGTH CAN GUIDE YOU THROUGH.”**_
+
+---
+
+## 🎮 Hobbies
+
+🎮 Gaming & Interactive Media  
+🎼 Playing Musical Instruments  
+🎬 Watching and analyzing films  
+📚 Tech articles & documentaries
+
+---

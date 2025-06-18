@@ -39,6 +39,13 @@
 
 ---
 
+## 🌍 Let's Connect
+
+- 📧 **Email:** sachipiya845@gmail.com  
+- 💼 [**LinkedIn**](https://linkedin.com/in/sachintha-piyathunga)
+- 🧠 Fun Fact: I'm *"Sachi"* to everyone even in code comments 😄  
+
+---
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 

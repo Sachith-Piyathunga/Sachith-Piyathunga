@@ -45,7 +45,7 @@
 
 - 📧 **Email:** sachipiya845@gmail.com  
 - 💼 [**LinkedIn**](https://linkedin.com/in/sachintha-piyathunga)
-- 🧠 Fun Fact: I'm *"Sachi"* to everyone even in code comments 😄  
+- 🧠 Fun Fact: I'm *"Sachi"* to everyone, even in code comments 😄  
 
 ---
 

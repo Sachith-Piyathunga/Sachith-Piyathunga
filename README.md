@@ -1,8 +1,3 @@
-<!--<p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-  <br><br>
-</p> -->
-
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HI, I'm Sachintha Chamod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">I'm a passionate developer with a strong interest in frontend, backend, mobile application development, and cybersecurity. I enjoy solving complex problems with elegant solutions and exploring how technology can drive creativity. As an undergraduate in Computer Science, I’m committed to continuous learning and growing in my field. I’m also excited to explore more about AI and its potential to revolutionize various industries.</h3>

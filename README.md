@@ -25,13 +25,17 @@
 
 ## Connect with me :handshake:
 
-- 🌱 I’m currently learning **Kotlin, Flutter**
+  - 🎓 I'm a third-year Computer Science undergraduate at the **Informatics Institute of Technology, Sri Lanka, affiliated with the University of Westminster, London**.
 
-- 💬 Ask me about **Java**
+  - 💡 I’m passionate about crafting clean, scalable, and user-friendly applications, whether it’s a **web platform**, a **mobile app**, or a **RESTful API**. I strive to bring ideas to life through technology.
 
-- 📫 How to reach me **sachipiya845@gmail.com**
+ -  🔐 I’m also curious about **cybersecurity**, and currently exploring how AI and ML can transform the future of software development.
 
-- ⚡ Fun fact **call me as Sachi**
+ -  🌱 Right now, I’m diving deeper into **Cybersecurity**, exploring areas like **ethical hacking**, **network security**, and **vulnerability assessment**.
+
+  - 📌 My ultimate goal is to become a **Cybersecurity Expert**, protecting systems from threats and ensuring digital safety at scale.
+
+---
 
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)

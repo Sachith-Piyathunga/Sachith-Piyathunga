@@ -135,6 +135,6 @@
 - 🎮 Gaming & Interactive Media  
 - 🎼 Playing Musical Instruments  
 - 🎬 Watching and analyzing films  
-📚 Tech articles & documentaries
+- 📚 Tech articles & documentaries
 
 ---

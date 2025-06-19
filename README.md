@@ -133,7 +133,7 @@
 ## 🎮 Hobbies
 
 - 🎮 Gaming & Interactive Media  
-🎼 Playing Musical Instruments  
+- 🎼 Playing Musical Instruments  
 🎬 Watching and analyzing films  
 📚 Tech articles & documentaries
 

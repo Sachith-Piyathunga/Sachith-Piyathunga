@@ -103,7 +103,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio" />
   </a>
-  
+  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40" title="IntelliJ IDEA" />
 </p>
 
 

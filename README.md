@@ -138,5 +138,3 @@
 - 🎼 Playing Musical Instruments  
 - 🎬 Watching and analyzing films  
 - 📚 Tech articles & documentaries
-
----

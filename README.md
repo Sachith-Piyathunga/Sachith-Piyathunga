@@ -112,7 +112,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=sachith-piyathunga&show_icons=true&theme=default" alt="GitHub Stats" />
+  <!--img width="45%" src="https://github-readme-stats.vercel.app/api?username=sachith-piyathunga&show_icons=true&theme=default" alt="GitHub Stats" /-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith-piyathunga&layout=compact&theme=default" alt="Most Used Languages" style="width: 350px;" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sachith-piyathunga&theme=default" alt="GitHub Streak" />
 </p>
 
@@ -121,7 +122,7 @@
 ## 📅 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachith-piyathunga&theme=github-light&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachith-piyathunga&theme=github-light&hide_border=true&custom_title=My+GitHub+Activity+Graph" />
 </p>
 
 ---

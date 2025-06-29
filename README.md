@@ -112,7 +112,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith-piyathunga&layout=compact&theme=default" alt="Most Used Languages" style="width: 350px;" />
+  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith-piyathunga&layout=compact&theme=default" alt="Most Used Languages" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sachith-piyathunga&theme=default" alt="GitHub Streak" />
 </p>
 

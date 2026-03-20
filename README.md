@@ -54,7 +54,9 @@
 
 ## :trophy: Languages and Tools :robot:
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<a target="_blank">
+  <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
+</a>
 
 ### 👨‍💻 Languages
 <p align="left">

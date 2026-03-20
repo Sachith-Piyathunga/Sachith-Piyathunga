@@ -122,7 +122,6 @@
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith-piyathunga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
 ## 📈 Contribution Graph
 

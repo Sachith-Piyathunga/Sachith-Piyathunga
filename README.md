@@ -109,22 +109,27 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith-piyathunga&layout=compact&theme=default" alt="Most Used Languages" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=sachith-piyathunga&theme=default" alt="GitHub Streak" />
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=sachith-piyathunga&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=sachith-piyathunga&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachith-piyathunga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📅 GitHub Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachith-piyathunga&theme=github-light&hide_border=true&custom_title=My+GitHub+Activity+Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachith-piyathunga&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
+
 
 ## 🧠 Quote I Live By
 
